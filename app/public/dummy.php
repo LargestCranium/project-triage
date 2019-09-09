@@ -4,7 +4,7 @@
   "firstname":"Chunk",
   "lastname":"Large",
   "age":1,
-  "DOB": "1999-12-31"
+  "DOB": "1999-12-31",
   "sexAtBirth":"M",
   },
 
@@ -13,7 +13,7 @@
   "firstname":"Big",
   "lastname":"Money",
   "age":666,
-  "DOB": "2000-01-01"
+  "DOB": "2000-01-01",
   "sexAtBirth":"F",
   },
 
@@ -22,7 +22,7 @@
   "firstname":"Colonel",
   "lastname":"Sanders",
   "age":"?",
-  "DOB": "1900-12-31"
+  "DOB": "1900-12-31",
   "sexAtBirth":"M",
   }
 ]
